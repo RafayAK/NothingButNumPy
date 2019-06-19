@@ -65,6 +65,7 @@ class LinearLayer:
 
     def update_params(self, learning_rate=0.1):
         """
+        This function performs the gradient descent update
 
         Args:
             learning_rate: learning rate hyper-param for gradient descent, default 0.1
