@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt  # import matplotlib for plotting and visualization
 import matplotlib
 
 """
@@ -68,7 +68,6 @@ def predict(X, Y, Zs, As):
     # print ("predictions: " + str(p))
     # print ("true labels: " + str(y))
     accuracy = np.sum((p == Y) / m)
-    print("Accuracy: " + str(accuracy))
 
     return p, probas, accuracy*100
 
