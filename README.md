@@ -25,16 +25,16 @@ ___util___ directory contains utility fuctions. It has the following files with 
 
 As examples following neural network architectures have been implemented:
 
-1. [A 2-layer neural network on XOR data](2_layer_toy_network_XOR.ipynb)
+1. [__A 2-layer neural network on XOR data__](2_layer_toy_network_XOR.ipynb)
 
 ![Architecture of 2-layer neural network](architecture_imgs/2_layer_NN.png)
 
-2. [A 1-layer neural network with a feature cross on XOR data](1_layer_toy_network_with_feature_cross_XOR.ipynb)
+2. [__A 1-layer neural network with a feature cross on XOR data__](1_layer_toy_network_with_feature_cross_XOR.ipynb)
 
 ![Architecture of 1-layer neural network with a featurecross](architecture_imgs/1_layer_FeatEng_NN.png)
 
 
-3. [A 3-layer neural network with feature cross on XOR data](3_layer_neural_network_XOR.ipynb)
+3. [__A 3-layer neural network with feature cross on XOR data__](3_layer_neural_network_XOR.ipynb)
 
 ![Architecture of 2-layer neural network](architecture_imgs/3_layer_NN.png)
 
