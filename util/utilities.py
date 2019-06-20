@@ -18,7 +18,7 @@ def compute_cost(Y, Y_hat):
 
     Returns:
         cost: The Squared Error Cost result
-        dY_hat: gradient of AL wrt the cost function
+        dY_hat: gradient of Cost w.r.t the Y_hat
 
     """
     m = Y.shape[1]
@@ -50,11 +50,11 @@ def predict(X, Y, Zs, As):
     p = np.zeros((1, m))
 
     # Forward propagation
-    Zs[0].linearForward(X)
-    As[0].activate(Zs[0].Z)
+    Zs[0].forward(X)
+    As[0].forward(Zs[0].Z)
     for i in range(1, n):
-        Zs[i].linearForward(As[i-1].A)
-        As[i].activate(Zs[i].Z)
+        Zs[i].forward(As[i-1].A)
+        As[i].forward(Zs[i].Z)
     probas = As[n-1].A
 
     # convert probas to 0/1 predictions
@@ -70,7 +70,7 @@ def predict(X, Y, Zs, As):
     accuracy = np.sum((p == Y) / m)
     print("Accuracy: " + str(accuracy))
 
-    return p, probas, accuracy
+    return p, probas, accuracy*100
 
 
 def plot_learning_curve(costs, learning_rate, total_epochs, save=False):
