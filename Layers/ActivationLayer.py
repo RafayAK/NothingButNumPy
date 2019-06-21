@@ -1,5 +1,6 @@
 import numpy as np  # import numpy library
 
+
 class SigmoidLayer:
     """
     This file implements activation layers
