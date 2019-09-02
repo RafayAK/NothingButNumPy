@@ -34,9 +34,9 @@ As examples following neural network architectures have been implemented:
 ![Architecture of 1-layer neural network with a featurecross](architecture_imgs/1_layer_FeatEng_NN.png)
 
 
-3. [__A 3-layer neural network with feature cross on XOR data__](3_layer_neural_network_XOR.ipynb)
+3. [__A 3-layer neural network on XOR data__](3_layer_neural_network_XOR.ipynb)
 
-![Architecture of 2-layer neural network](architecture_imgs/3_layer_NN.png)
+![Architecture of 3-layer neural network](architecture_imgs/3_layer_NN.png)
 
 ***
 
