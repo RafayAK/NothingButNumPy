@@ -4,7 +4,8 @@ This repository is part of the blog post ["Nothing but NumPy: Understanding &amp
 ### Layers
 The ___Layers___ directory contains the classes for:
 1. Linear Layer
-2. Activation Layer
+2. Activation Layer:
+   - Sigmoid Layer
 
 ### util
 ___util___ directory contains utility fuctions. It has the following files with the following functions:
