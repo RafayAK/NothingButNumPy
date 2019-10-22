@@ -1,10 +1,16 @@
-import numpy as np  # import numpy library
+"""
+Created by : Rafay Khan
+Twitter: @RafayAK
 
+This file implements activation layers
+inline with a computational graph model
+"""
+
+import numpy as np  # import numpy library
 
 class SigmoidLayer:
     """
-    This file implements activation layers
-    inline with a computational graph model
+    This class implements the Sigmoid Layer
 
     Args:
         shape: shape of input to the layer

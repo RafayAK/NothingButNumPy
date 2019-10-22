@@ -1,3 +1,8 @@
+"""
+Created by : Rafay Khan
+Twitter: @RafayAK
+"""
+
 import numpy as np  # import numpy library
 from util.paramInitializer import initialize_parameters  # import function to initialize weights and biases
 

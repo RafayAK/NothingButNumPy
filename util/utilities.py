@@ -1,10 +1,14 @@
+"""
+Created by : Rafay Khan
+Twitter: @RafayAK
+
+Contains a bunch of helper functions
+"""
+
+
 import numpy as np
 import matplotlib.pyplot as plt  # import matplotlib for plotting and visualization
 import matplotlib
-
-"""
-Contains a bunch of helper functions
-"""
 
 
 def compute_cost(Y, Y_hat):
