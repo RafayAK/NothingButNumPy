@@ -1,6 +1,8 @@
 # NothingButNumPy
 This repository is part of the blog post ["Nothing but NumPy: Understanding &amp; Creating neural networks with computational graphs from scratch"](https://medium.com/@rafayak/nothing-but-numpy-understanding-creating-neural-networks-with-computational-graphs-from-scratch-6299901091b0)
 
+***Forks rather than Clones, Stars rather than Views*** 🙏
+
 ### Layers
 The ___Layers___ directory contains the classes for:
 1. Linear Layer
