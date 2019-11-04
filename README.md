@@ -4,7 +4,7 @@ This repository is part of the blog post ["Nothing but NumPy: Understanding &amp
 <div align='center'>
    
 ***Forks rather than Clones, Stars rather than Views*** 🙏
-<\div>
+</div>
 
 ### Layers
 The ___Layers___ directory contains the classes for:
