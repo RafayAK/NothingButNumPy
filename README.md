@@ -9,7 +9,7 @@ and bolts that go in to making an artificial neural network and creating them us
 
 _Part of the a blog post ["Nothing but NumPy: Understanding &amp; Creating Neural Networks with Computational Graphs from Scratch"](https://medium.com/@rafayak/nothing-but-numpy-understanding-creating-neural-networks-with-computational-graphs-from-scratch-6299901091b0)_
 
-This blog introudces the concept of an "artifical neural network" laying down the foundation for much more complex concepts.
+Introudces the concept of an "artifical neural network" laying down the foundation for future installments.
 
 
 ***
