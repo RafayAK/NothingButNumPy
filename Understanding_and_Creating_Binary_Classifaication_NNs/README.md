@@ -39,7 +39,7 @@ ___util___ directory contains utility fuctions. It has the following files with 
 As examples following examples have been implemented:
 
 
-1. [__A 1-layer neural network on AND data that uses MSE Cost __](1_layer_toy_network_MSE_AND_dataset.ipynb)
+1. [**A 1-layer neural network on AND data that uses MSE Cost**](1_layer_toy_network_MSE_AND_dataset.ipynb)
 
 
     This notebook shows how easy it is the break backpropagation when Mean Squared Error(MSE) Cost function is used in a
@@ -48,7 +48,7 @@ As examples following examples have been implemented:
     ![Architecture of 1-layer neural network with 2 inputs](imgs/2in_1_layer_NN.png)
     
     
-2.  [__A 2-layer neural network on XOR data that uses Keras-like BCE Cost __](2_layer_toy_network_KerasLikeBCE_XOR.ipynb)
+2.  [**A 2-layer neural network on XOR data that uses Keras-like BCE Cost**](2_layer_toy_network_KerasLikeBCE_XOR.ipynb)
 
 
     This notebook trains a 2-layer neural net on XOR data using the Keras-like Binary Cross-Entropy(BCE) Cost function. 
@@ -56,7 +56,7 @@ As examples following examples have been implemented:
     
     ![Architecture of 2-layer neural network with 2 inputs](imgs/2in_2_layer_NN.png)
     
-3.  [__A 1-layer neural network on Iris flower petals data __](1_layer_toy_network_on_Iris_petals.ipynb)
+3.  [**A 1-layer neural network on Iris flower petals data**](1_layer_toy_network_on_Iris_petals.ipynb)
 
 
     This notebook trains a 1-layer neural net to classify _"iris-versicolor flower vs. other flowers"_ using only petal length &
@@ -65,23 +65,25 @@ As examples following examples have been implemented:
     ![Architecture of 1-layer neural network with 2 inputs](imgs/2in_1_layer_NN.png)
     
  
- 4. [__A 2-layer neural network on all Iris flowers data __](2_layer_toy_neural_network_on_all_iris_data.ipynb)
+ 4. [**A 2-layer neural network on all Iris flowers data**](2_layer_toy_neural_network_on_all_iris_data.ipynb)
  
     This notebook trains a 2-layer neural net to classify _"iris-versicolor flower vs. other flowers"_ using **all** of the 4 flower features and uses the "stable" BCE Cost function. The following neural network architecture has been implemented:
     
     ![Architecture of 2-layer neural network with 4 inputs](imgs/4in_2_layer_NN.png)
     
     
- 5. [__A 3-layer neural network on Iris flower sepals data __](3_layer_toy_neural_network_on_iris_sepals.ipynb)
+ 5. [**A 3-layer neural network on Iris flower sepals data**](3_layer_toy_neural_network_on_iris_sepals.ipynb)
  
  
     This notebook trains a 3-layer neural net to classify _"iris-versicolor flower vs. other flowers"_ using using only sepal length & width as features and uses the "stable" BCE Cost function. The following neural network architecture has been implemented:
     
-     ![Architecture of 3-layer neural network with 2 inputs](imgs/2in_2_layer_NN.png)
+     ![Architecture of 3-layer neural network with 2 inputs](imgs/2in_3_layer_NN.png)
     
     
 
- 
+***
+
+Find me on [twitter](https://twitter.com/RafayAK) for any questions or suggestions.
  
  
     
