@@ -3,7 +3,6 @@
 This open source repository is part of a series of blog posts titled _"Nothing but NumPy"_, that aims to explain all the nuts
 and bolts that go in to making an artificial neural network and creating them using only [NumPy](https://numpy.org/).
 
-***
 
 ## [1. Understanding and Creating Neural Networks](/Understanding_and_Creating_NNs)
 
