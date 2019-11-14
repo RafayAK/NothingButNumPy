@@ -1,5 +1,5 @@
 # Nothing But NumPy: _Understanding &amp; Creating Neural Networks with Computational Graphs from Scratch_
-This repository is part of the blog post ["Nothing but NumPy: Understanding &amp; Creating Neural Networks with Computational Graphs from Scratch"](https://medium.com/@rafayak/nothing-but-numpy-understanding-creating-neural-networks-with-computational-graphs-from-scratch-6299901091b0)
+This repository is part of the blog post ["Nothing but NumPy: Understanding & Creating Binary Classification Neural Networks with Computational Graphs from Scratch"](https://medium.com/@rafayak/nothing-but-numpy-understanding-creating-binary-classification-neural-networks-with-e746423c8d5c)
 
 <div align='center'>
    
