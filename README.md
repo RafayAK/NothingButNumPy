@@ -19,3 +19,11 @@ _Part of the a blog post ["Nothing but NumPy: Understanding &amp; Creating Binar
 
 This second installment of _"Nothing but NumPy"_ builds upon the previous post. It delves into creating a neural network to solve a
 specific kind of problem called _"binary classification"_.  
+
+
+
+___
+___
+
+
+Feel free to reach out to me on [Twitter](https://twitter.com/RafayAK) for any queries.
