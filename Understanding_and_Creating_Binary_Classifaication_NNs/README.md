@@ -27,7 +27,7 @@ ___util___ directory contains utility fuctions. It has the following files with 
    - `plot_decision_boundary_shaded(model, X, Y, feat_crosses=None, axis_lines=False,save=False)`
    - `plot_decision_boundary_distances(model, X, Y, feat_crosses=None, axis_lines=False, save=False)`
 
-3. `cost_functions.py`
+3. cost_functions.py
    - `compute_bce_cost(Y, P_hat)`
    - `compute_stable_bce_cost(Y, Z)`
    - `compute_keras_like_bce_cost(Y, P_hat, from_logits=False)`
@@ -36,7 +36,7 @@ ___util___ directory contains utility fuctions. It has the following files with 
    
 ---   
 
-As examples following examples have been implemented:
+The following examples have been implemented:
 
 
 1. [**A 1-layer neural network on AND data that uses MSE Cost**](1_layer_toy_network_MSE_AND_dataset.ipynb)
