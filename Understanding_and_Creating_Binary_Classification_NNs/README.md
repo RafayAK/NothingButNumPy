@@ -42,7 +42,7 @@ The following examples have been implemented:
 1. [**A 1-layer neural network on AND data that uses MSE Cost**](1_layer_toy_network_MSE_AND_dataset.ipynb)
 
 
-    This notebook shows how easy it is the break backpropagation when Mean Squared Error(MSE) Cost function is used in a
+    This notebook shows how easy it is to break backpropagation when Mean Squared Error(MSE) Cost function is used in a
     binary classification setting. The following neural network architecture has been implemented:
     
     ![Architecture of 1-layer neural network with 2 inputs](imgs/2in_1_layer_NN.png)
@@ -60,14 +60,14 @@ The following examples have been implemented:
 
 
     This notebook trains a 1-layer neural net to classify _"iris-versicolor flower vs. other flowers"_ using only petal length &
-    width as features and the "stable" BCE Cost function. The following neural network architecture has been implemented:
+    width as features and the _"stable"_ BCE Cost function. The following neural network architecture has been implemented:
     
     ![Architecture of 1-layer neural network with 2 inputs](imgs/2in_1_layer_NN.png)
     
  
  4. [**A 2-layer neural network on all Iris flowers data**](2_layer_toy_neural_network_on_all_iris_data.ipynb)
  
-    This notebook trains a 2-layer neural net to classify _"iris-versicolor flower vs. other flowers"_ using **all** of the 4 flower features and the "stable" BCE Cost function. The following neural network architecture has been implemented:
+    This notebook trains a 2-layer neural net to classify _"iris-versicolor flower vs. other flowers"_ using **all** of the 4 flower features and the _"stable"_ BCE Cost function. The following neural network architecture has been implemented:
     
     ![Architecture of 2-layer neural network with 4 inputs](imgs/4in_2_layer_NN.png)
     
@@ -75,7 +75,7 @@ The following examples have been implemented:
  5. [**A 3-layer neural network on Iris flower sepals data**](3_layer_toy_neural_network_on_iris_sepals.ipynb)
  
  
-    This notebook trains a 3-layer neural net to classify _"iris-versicolor flower vs. other flowers"_ using only sepal length & width as features and the "stable" BCE Cost function. The following neural network architecture has been implemented:
+    This notebook trains a 3-layer neural net to classify _"iris-versicolor flower vs. other flowers"_ using only sepal length & width as features and the _"stable"_ BCE Cost function. The following neural network architecture has been implemented:
     
      ![Architecture of 3-layer neural network with 2 inputs](imgs/2in_3_layer_NN.png)
     
