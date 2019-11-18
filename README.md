@@ -1,5 +1,7 @@
 # Nothing but NumPy
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 This open source repository is part of a series of blog posts titled _"Nothing but NumPy"_, that aims to explain all the nuts
 and bolts that go into making an artificial neural network and create them using only [NumPy](https://numpy.org/).
 
