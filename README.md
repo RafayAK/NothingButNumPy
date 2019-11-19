@@ -30,4 +30,7 @@ ___
 
 
 
-Feel free to reach out to me on [Twitter](https://twitter.com/RafayAK) for any queries.
+Feel free to reach out to me on [![alt text][1.2]][1]for any queries.
+
+[1.2]: https://img.icons8.com/color/48/000000/twitter.png (twitter icon without padding)
+[1]: https://twitter.com/RafayAK 
