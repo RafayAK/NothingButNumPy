@@ -1,4 +1,6 @@
-# Nothing but NumPy
+<div align='center'>
+<h1> Nothing but NumPy </h1>
+</div>
 
 <div align='center'>
    
