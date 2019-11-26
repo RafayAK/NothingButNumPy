@@ -35,4 +35,4 @@ ___
 Feel free to reach out to me on [![alt text][1.2]][1]for any queries.
 
 [1]: https://twitter.com/RafayAK 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (@RafayAK)
