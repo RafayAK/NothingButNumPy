@@ -13,6 +13,7 @@
 <a href="https://www.buymeacoffee.com/rafaykhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
 
+
 This open source repository is part of a series of blog posts titled _"Nothing but NumPy"_, that aims to explain all the nuts
 and bolts that go into making an artificial neural network and create them using only [NumPy](https://numpy.org/).
 
